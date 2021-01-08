@@ -1,11 +1,11 @@
 {
   "admin": {
-    "username": "admin",
-    "password": "5f4dcc3b5aa765d61d8327deb882cf99",
-    "loginToken": "a158bcd54404881ad61f2acbeeb76135",
+    "username": "p",
+    "password": "b5c0b187fe309af0f4d35982fd961d7e",
+    "loginToken": "",
     "logs": [
       {
-        "time": "2020-01-11T15:23:07.971Z",
+        "time": "",
         "type": "SUCCESS",
         "message": "Build Succeded!"
       }
