@@ -1,12 +1,12 @@
 {
-  "name": "xploitspy",
+  "name": "D-evil",
     "version": "1.0.0",
-    "description": "XploitSPY - Remote Android Spying Tool",
+    "description": "be D-evil",
     "main": "index.js",
     "scripts": {
         "start": "node server/index.js",
         "test": "node server/index.js"},
-  "author": "XploitWizer",
+  "author": "Devil",
     "license": "ISC",
     "dependencies": {
         "body-parser": "^1.19.0",
